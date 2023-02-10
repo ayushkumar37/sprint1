@@ -1,0 +1,17 @@
+com\cg\oam\Entity\Customer.class
+com\cg\oam\Entity\Description.class
+com\cg\oam\Service\UserService.class
+com\cg\oam\Entity\Admin.class
+com\cg\oam\Repository\IMedicineRepository.class
+com\cg\oam\Entity\Medicine.class
+com\cg\oam\Service\MedicineService.class
+com\cg\oam\Entity\Category.class
+com\cg\oam\Service\PrescriptionService.class
+com\cg\oam\OamApplication.class
+com\cg\oam\Entity\AbstractUser.class
+com\cg\oam\Entity\Prescription.class
+com\cg\oam\Entity\Address.class
+com\cg\oam\Entity\Order.class
+com\cg\oam\Repository\IPrescriptionRepository.class
+com\cg\oam\RestController\PrescriptionRestController.class
+com\cg\oam\Repository\IUserRepository.class
